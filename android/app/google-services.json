@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "508113012020",
+    "firebase_url": "https://shoe-kart-e04fd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shoe-kart-e04fd",
+    "storage_bucket": "shoe-kart-e04fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508113012020:android:063c6a696edbe0cf269161",
+        "android_client_info": {
+          "package_name": "com.example.admin_shoe_kart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQOHe2Zm7iaE95nF8zEFC88OTkfkY1BOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508113012020:android:7698b06b6d6c9669269161",
+        "android_client_info": {
+          "package_name": "com.example.shoe_kart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQOHe2Zm7iaE95nF8zEFC88OTkfkY1BOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
